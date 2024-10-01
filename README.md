@@ -1,5 +1,3 @@
-![Evereen](https://github.com/user-attachments/assets/8a713137-2aef-47d5-b560-1cc843cecadd)
-
 <h2>:wave: Evereen2023 is here!</h2>
 
 ### ❤️ &nbsp;About Me
