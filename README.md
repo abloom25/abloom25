@@ -1,4 +1,4 @@
-<h2>:wave: Evereen2023 is here!</h2>
+## :wave: Evereen2023 is here!
 
 ### ❤️ &nbsp;About Me
 
@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Git](https://img.shiaddfghelds.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -27,6 +27,3 @@
 
 <a href="https://evereen.site/"><img src="https://img.shields.io/badge/-evereen.site-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:evereen2023@gmail.com"><img src="https://img.shields.io/badge/-evereen2023@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-
->.md File From [AVS1508](https://github.com/AVS1508)
