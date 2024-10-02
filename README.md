@@ -23,4 +23,4 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://evereen.site/"><img src="https://img.shields.io/badge/-evereen.site-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:evereen2023@gmail.com"><img src="https://img.shields.io/badge/-evereen@nemophilists.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:evereen@nemophilists.com"><img src="https://img.shields.io/badge/-evereen@nemophilists.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
