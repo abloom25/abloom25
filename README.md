@@ -1,6 +1,6 @@
 ### ❤️ &nbsp;About Me
 
-🏕️ &nbsp;I like 🌊 and ⛰️ best.\
+🏕️ &nbsp;I like 🌊 and ⛰️ \
 ✉️ &nbsp;You can shoot me an email at evereen@nemophilists.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
