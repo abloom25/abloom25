@@ -1,8 +1,3 @@
-### ❤️ &nbsp;About Me
-
-🏕️ &nbsp;I like 🌊 and ⛰️ \
-✉️ &nbsp;You can shoot me an email at evereen@nemophilists.com! I'll try to respond as soon as I can.
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
@@ -18,12 +13,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/Evereen2023">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Evereen2023&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Evereen2023&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/abloom25">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abloom25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abloom25&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<a href="https://evereen.site/"><img src="https://img.shields.io/badge/-evereen.site-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:evereen@nemophilists.com"><img src="https://img.shields.io/badge/-evereen@nemophilists.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
